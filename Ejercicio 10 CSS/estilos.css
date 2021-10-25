@@ -1,0 +1,46 @@
+h1{
+        font-size: 12;
+        color: cadetblue;}
+
+.destacado{
+    color: coral;
+}
+
+#subtitulo {
+    color: blue;
+}
+
+.especial{
+    color: blueviolet;
+}
+.normal {
+    width: 430px;
+    border: 1px solid #000;
+    border-collapse: collapse;
+    }
+    .normal th, .normal td {
+    border: 1px solid #000;
+    }
+
+    thead {
+        color: coral;
+    }
+    tfoot {
+        color: red;
+    }
+
+ #adicional{
+   color: darkolivegreen;
+   font-style: strong   ;
+ }
+
+#especial{
+    color: rgb(238, 91, 218)}
+    
+    
+    a{color:green;}
+
+    .verdolaga{
+        color: green;
+        font-weight: bold;
+    }

@@ -1,0 +1,45 @@
+
+h1 {
+    font-size: 1cm;
+    font-family: verdana, arial;
+    text-decoration: bold;
+    text-align: center;
+    background-color: rgb(62, 255, 78);
+    }
+
+ul { width: 220px; }
+
+/* ul {
+  
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 180px;
+    } */
+
+     .imagen{
+        list-style-image: url("euro.png");
+     }
+ 
+ul  {   
+    border: 2px solid #f70a0a;
+    border-bottom: 2;
+    list-style-type: square;
+    margin: 2;
+    padding: 2;
+    width: 180px;
+    }
+      ul  li {
+      
+        background: #ebfa1d;
+        border-bottom: 2px solid #1e21e2;   
+        border-top: 1px solid #FFF;
+        }
+        ul  li a {
+            color: rgb(204, 17, 17) (27, 243, 20);
+            list-style-type: square;
+            display: block;
+            padding: .2em 0 .2em .5em;
+            text-decoration: none;
+            }
+ 

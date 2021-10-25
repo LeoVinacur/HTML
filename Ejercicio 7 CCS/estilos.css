@@ -1,0 +1,26 @@
+
+p {
+font-size: 0.5cm;
+font-family: arial, helvetica;
+font-weight: normal;
+text-align: center;
+}
+h1 {
+font-size: 1cm;
+font-family: verdana, arial;
+text-decoration: bold;
+text-align: center;
+background-color: rgb(128, 0, 0);
+}
+h2 {
+font-size: 0.7cm;
+font-family:Courier;
+text-decoration: underline;
+text-align: right;
+background-color: Teal;
+}
+body {
+background-color: #206600;
+font-family: arial;
+color: black;
+}
